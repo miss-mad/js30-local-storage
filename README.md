@@ -9,11 +9,11 @@
 
 ## Description
 
-Created with only Vanilla JavaScript.
+This site allows listed tapas menu items to be created and checked or unchecked, even upon page reload. Created with only Vanilla JavaScript.
 
 ## Usage
 
-![Local Storage and Event Delegation screenshot 1](./assets/images/)
+![Local Storage and Event Delegation screenshot 1](./assets/images/js30_local_storage_screenshot.png)
 
 ## Credits
 
