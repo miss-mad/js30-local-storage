@@ -61,6 +61,7 @@ h2 {
   display: none;
 }
 
+/* replaces/customizes the checkbox input to be a blank square that, when checked, becomes a taco (below) */
 .plates input + label:before {
   content: "⬜️";
   margin-right: 10px;
